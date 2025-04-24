@@ -3,7 +3,7 @@
   <h1 align="center">PerfectBot</h1>
 </a>
 
-# 🤖 AI Chatbot
+# 🤖 AI Chatbot (PerfectBot)
 
 **AI Chatbot** is an intelligent conversational assistant designed to simulate natural language conversations and assist users with queries in real-time. Built using cutting-edge NLP and machine learning technologies, it can be integrated into websites, apps, or messaging platforms.
 
